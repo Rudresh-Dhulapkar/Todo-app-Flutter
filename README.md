@@ -1,16 +1,41 @@
-# list_app
+# Flutter To-Do App with Login
 
-A new Flutter project.
+A cross-platform Flutter mobile application featuring user authentication and a task management system.  
+Designed to practice Flutter UI, state management, and basic CRUD operations.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- User login & registration  
+- Add, update, delete to-do tasks  
+- Clean & responsive UI  
+- Organized code structure  
+- Cross-platform support (Android/iOS)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **Storage:** Local database / Firebase Auth (depending on version)  
+- **Tools:** Android Studio, VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure
+lib/
+├── main.dart
+├── screens/
+├── widgets/
+└── services/
+
+---
+
+## 📚 What I Learned
+- Form validation  
+- Navigation  
+- State management  
+- UI layout and widget reuse  
+- Authentication workflow
+
+---
